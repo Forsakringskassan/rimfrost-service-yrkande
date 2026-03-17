@@ -1,15 +1,6 @@
-# Mallproject for Rimfrost maskinell regel
+# Projekt för yrkande
 
-Det här är ett mall projekt för att skapa en regel i Rimfrost-projektet.
-
-En regel är mikrotjänst baserad på [Quarkus](https://quarkus.io/) och [Kogito](https://kogito.kie.org/)
-för att producera ett beslut baserat på olika parametrar som antingen är givna eller samlas in under körning.
-
-Denna mall lämpar sig för maskinella (automatiska) regler 
-som producerar ett beslut utan interaktion med handläggare.
-
-För regler som kräver interaktion med handläggare, se template
-projektet för manuell regel.
+Projektet tillhandahåller api för /yrkande och /handlaggning
 
 ## Minimum konfiguration
 
